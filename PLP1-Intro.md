@@ -1,7 +1,7 @@
 1. What is the name of your language? 
-Ruby
+>Ruby
 2. When/where was it created and by whom? Was it developed to address a particular computing problem or need? 
-It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. He created this language because he was looking for an object oriented script language that was programmer friendly, and since he could find none, he created his own
+>It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. He created this language because he was looking for an object oriented script language that was programmer friendly, and since he could find none, he created his own
 3. Is it primarily procedural, functional, scripted, object-oriented, or a combination of these? Or something else? 
 It is a combination of scripted and object-oriented.
 4. Is it compiled or interpreted, or a combination? Does it use a virtual machine? 
